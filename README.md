@@ -2,7 +2,7 @@
   <body>
     <h1> My Food Allergies <h1>  
     <h2> By: MaryKate Sullivan <h2>
-       <p>Ever since I was young I have had severe food allergies. Here is a list of all of them. This willbe very useful when I go to resturants. 
+       <p>Ever since I was young I have had severe food allergies. Here is a list of all of them. This will be very useful when I go to resturants. 
       </p>
            <ul> (Every nut except peanuts) 
              <li> Almonds </li>
