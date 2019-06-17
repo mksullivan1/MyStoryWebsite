@@ -12,7 +12,7 @@
              <li> Pecans </li>
              <li> Pistachios </li>
              <li> Walnuts </li>
-             <li> (Seeds) 
+             (Seeds) 
              <li> Seasme Seeds </li>
              <li> Poppy Seeds </li>
              <li> Sunflower Seeds </li>
